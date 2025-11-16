@@ -3,9 +3,9 @@ spring:
     name: task-manager
 
   datasource:
-    url: jdbc:mysql://localhost:3306/taskManagerDB_testing?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://localhost:3306/taskManagerDB_testingusers?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
     username: root # Replace with your MySQL username
-    password: 2345   # Replace with your MySQL password
+    password: 1234567@a***   # Replace with your MySQL password
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:

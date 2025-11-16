@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.taskmanagement.config.SecurityConfigTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.358 s -- in com.taskmanagement.config.SecurityConfigTest

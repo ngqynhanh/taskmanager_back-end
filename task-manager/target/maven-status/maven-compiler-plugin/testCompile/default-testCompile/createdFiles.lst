@@ -1,1 +1,4 @@
+com\taskmanagement\config\AuthServiceTest.class
+com\taskmanagement\config\PasswordConfigTest.class
 com\taskmanagement\task_manager\TaskManagerApplicationTests.class
+com\taskmanagement\config\SecurityConfigTest.class

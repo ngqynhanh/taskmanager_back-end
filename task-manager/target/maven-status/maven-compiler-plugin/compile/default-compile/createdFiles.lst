@@ -1,7 +1,9 @@
 com\taskmanagement\repository\UserRepo.class
+com\taskmanagement\config\PasswordConfig.class
 com\taskmanagement\entity\ActivityLog.class
 com\taskmanagement\entity\ActivityLog$ActionType.class
 com\taskmanagement\entity\User$UserRole.class
+com\taskmanagement\config\SecurityConfig.class
 com\taskmanagement\TaskApplication.class
 com\taskmanagement\dto\LoginResponse$LoginResponseBuilder.class
 com\taskmanagement\entity\Task$TaskPriority.class
@@ -10,6 +12,7 @@ com\taskmanagement\entity\Category.class
 com\taskmanagement\entity\TaskAssignment.class
 com\taskmanagement\entity\User$UserStatus.class
 com\taskmanagement\entity\Tag.class
+com\taskmanagement\config\AuthService.class
 com\taskmanagement\dto\LoginResponse.class
 com\taskmanagement\entity\Task.class
 com\taskmanagement\dto\LoginRequest.class
